@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+I'm a highly focused Senior FullStack Web Engineer with 7 + years of experience in a variety of development projects. Organized, methodical and a keen eye for detail results in solid coding and a trustworthy program.
+Understanding client requirements and communicating the progress of projects are core values in achieving long-lasting business relationships.
+The experience and my academic education have provided me with some outstanding and technical skills.
 
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
+I provide Front-End, Back-End and also user-friendly web solutions.
+I would like to inform you that I am highly skilled with frontend & backend frameworks and libraries like React.js, Angular, Vue.js, PHP, Node.js, Java, Python, DevOps and so on, as I have handsome experience of it. Still, I am always eager to learn a new thing and make my skills sharper whenever I get a chance.
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
-
-I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
-
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
-
-I had already built so many Websites with the mentioned skill.
+Above and beyond, I have a great passion for blockchain & cryptocurrency like web3.js, Dapp, DeFi, NFT etc and software technology as well. I have worked with some IT companies and enjoyed the work a lot. My recruiters are always delighted with my creativity, hard work and stamina.
 
 <!--
 **ElvisJin/ElvisJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
