@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a highly focused Senior FullStack Web Engineer with 7 + years of experience in a variety of development projects. Organized, methodical and a keen eye for detail results in solid coding and a trustworthy program.
+I'm a highly focused Senior FullStack Web Engineer with 8 + years of experience in a variety of development projects. Organized, methodical and a keen eye for detail results in solid coding and a trustworthy program.
 Understanding client requirements and communicating the progress of projects are core values in achieving long-lasting business relationships.
 The experience and my academic education have provided me with some outstanding and technical skills.
 
